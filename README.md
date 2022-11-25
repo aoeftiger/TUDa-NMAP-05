@@ -12,7 +12,7 @@ Find the rendered HTML slides [here](https://aoeftiger.github.io/TUDa-NMAP-05/).
 
 Run this notebook talk online, interactively on mybinder.org:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aoeftiger/TUDa-NMAP-05/v0.1)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aoeftiger/TUDa-NMAP-05/v1.0)
 
 The `lecture.ipynb` notebook will work out-of-the-box.
 
